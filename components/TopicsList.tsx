@@ -13,7 +13,7 @@ export default function TopicsList(){
             </div>
             <div className="flex gap-2 items-start">
                 <RemoveBtn/>
-                <Link href={"/EditTopic/123"}>
+                <Link href={"/editTopic/123"}>
                     <HiPencilAlt size={24}/>
                 </Link>
             </div>
